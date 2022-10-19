@@ -28,6 +28,8 @@
   color: #61dafb;
 }
 
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+:global(.mainContainer){
+  color: red;
+  background-color: rgb(246,248,250);
+  border-bottom: 1px solid rgb(208,215,222);
 }
