@@ -25,7 +25,7 @@ export const IssuesContainer = () => {
     display: "flex",
     gap: "0.5rem",
     flexWrap: "wrap",
-    alignItems: "center",
+    alignItems: "center ",
   };
 
   const actionIcon: React.CSSProperties = { display: "flex", gap: "0.5rem" };

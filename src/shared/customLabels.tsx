@@ -14,7 +14,7 @@ export const CustomLabels =(props:any) =>{
 
     const customLableText:React.CSSProperties = {
         margin:0,
-        padding:'5px 5px',
+        padding:'5px 10px',
         fontSize:'14px',
         fontWeight:600
         
